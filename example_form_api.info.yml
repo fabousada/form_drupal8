@@ -1,0 +1,6 @@
+name: Example form API
+description: Fields form api
+package: FBCustom
+
+type: module
+core: 8.x
